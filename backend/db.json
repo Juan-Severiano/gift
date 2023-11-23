@@ -1,7 +1,9 @@
 {
-    "teste": {
-        "id": 1,
-        "name": "Francisco Juan",
-        "age": 16
-    }
+    "teste": [
+        {
+            "id": 1,
+            "name": "Francisco Juan",
+            "age": 16 
+        }
+    ]
 }
